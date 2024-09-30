@@ -166,3 +166,6 @@
 	path = Drivers/BSP/Components/mx_wifi
 	url = https://github.com/STMicroelectronics/stm32-mx-wifi
 	branch = main
+[submodule "Drivers/BSP/STM32H7RSxx_Nucleo"]
+	path = Drivers/BSP/STM32H7RSxx_Nucleo
+	url = https://github.com/STMicroelectronics/stm32h7rsxx-nucleo-bsp.git
